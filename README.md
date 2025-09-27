@@ -1,4 +1,7 @@
-
+<p align="center">
+  <img src="https://github.com/vikas-101/vikas-101/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png?raw=true" 
+       alt="Vikas Choudhary Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Vikas Choudhary</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
